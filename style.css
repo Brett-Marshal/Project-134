@@ -1,0 +1,48 @@
+body
+{
+    background-position: center;
+    background-size:cover;
+}
+
+.heading
+{
+    margin:0;
+    width:100%;
+    font-size:18px;
+}
+
+#baby_found, #status, #start
+{
+    font-size:18px;
+}
+
+#footer
+{
+    position:fixed;
+    width:100%;
+    background-color: gray;
+    bottom:0;
+    line-height:3;
+    text-align:center;
+    color:whitesmoke;
+    font-size:18px;
+}
+
+canvas
+{
+    text-align:center;
+    border:2px dotted black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 7px orangered;
+    margin-top:75px;
+}
+
+h1
+{
+    color:rgb(136, 34, 34);
+}
+
+p
+{
+    color:orange;
+}
